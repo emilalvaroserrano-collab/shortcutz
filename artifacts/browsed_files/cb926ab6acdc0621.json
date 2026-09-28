@@ -1,0 +1,210 @@
+[
+  {
+    "name": "animated-explainer.yaml",
+    "path": "pipeline_defs/animated-explainer.yaml",
+    "sha": "bd17a1975214077c74b6ebc8fb68ad18eaf331ed",
+    "size": 9110,
+    "url": "https://api.github.com/repos/calesthio/OpenMontage/contents/pipeline_defs/animated-explainer.yaml?ref=main",
+    "html_url": "https://github.com/calesthio/OpenMontage/blob/main/pipeline_defs/animated-explainer.yaml",
+    "git_url": "https://api.github.com/repos/calesthio/OpenMontage/git/blobs/bd17a1975214077c74b6ebc8fb68ad18eaf331ed",
+    "download_url": "https://raw.githubusercontent.com/calesthio/OpenMontage/main/pipeline_defs/animated-explainer.yaml",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/calesthio/OpenMontage/contents/pipeline_defs/animated-explainer.yaml?ref=main",
+      "git": "https://api.github.com/repos/calesthio/OpenMontage/git/blobs/bd17a1975214077c74b6ebc8fb68ad18eaf331ed",
+      "html": "https://github.com/calesthio/OpenMontage/blob/main/pipeline_defs/animated-explainer.yaml"
+    }
+  },
+  {
+    "name": "animation.yaml",
+    "path": "pipeline_defs/animation.yaml",
+    "sha": "95fd2d1151142177edd2281060a96a9a24b02e67",
+    "size": 11322,
+    "url": "https://api.github.com/repos/calesthio/OpenMontage/contents/pipeline_defs/animation.yaml?ref=main",
+    "html_url": "https://github.com/calesthio/OpenMontage/blob/main/pipeline_defs/animation.yaml",
+    "git_url": "https://api.github.com/repos/calesthio/OpenMontage/git/blobs/95fd2d1151142177edd2281060a96a9a24b02e67",
+    "download_url": "https://raw.githubusercontent.com/calesthio/OpenMontage/main/pipeline_defs/animation.yaml",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/calesthio/OpenMontage/contents/pipeline_defs/animation.yaml?ref=main",
+      "git": "https://api.github.com/repos/calesthio/OpenMontage/git/blobs/95fd2d1151142177edd2281060a96a9a24b02e67",
+      "html": "https://github.com/calesthio/OpenMontage/blob/main/pipeline_defs/animation.yaml"
+    }
+  },
+  {
+    "name": "avatar-spokesperson.yaml",
+    "path": "pipeline_defs/avatar-spokesperson.yaml",
+    "sha": "21beedf3ea3f4513ea75521ec12d2c9dd3637746",
+    "size": 6084,
+    "url": "https://api.github.com/repos/calesthio/OpenMontage/contents/pipeline_defs/avatar-spokesperson.yaml?ref=main",
+    "html_url": "https://github.com/calesthio/OpenMontage/blob/main/pipeline_defs/avatar-spokesperson.yaml",
+    "git_url": "https://api.github.com/repos/calesthio/OpenMontage/git/blobs/21beedf3ea3f4513ea75521ec12d2c9dd3637746",
+    "download_url": "https://raw.githubusercontent.com/calesthio/OpenMontage/main/pipeline_defs/avatar-spokesperson.yaml",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/calesthio/OpenMontage/contents/pipeline_defs/avatar-spokesperson.yaml?ref=main",
+      "git": "https://api.github.com/repos/calesthio/OpenMontage/git/blobs/21beedf3ea3f4513ea75521ec12d2c9dd3637746",
+      "html": "https://github.com/calesthio/OpenMontage/blob/main/pipeline_defs/avatar-spokesperson.yaml"
+    }
+  },
+  {
+    "name": "character-animation.yaml",
+    "path": "pipeline_defs/character-animation.yaml",
+    "sha": "e40452ecd81496b44225973b36c1b210dff22d00",
+    "size": 10047,
+    "url": "https://api.github.com/repos/calesthio/OpenMontage/contents/pipeline_defs/character-animation.yaml?ref=main",
+    "html_url": "https://github.com/calesthio/OpenMontage/blob/main/pipeline_defs/character-animation.yaml",
+    "git_url": "https://api.github.com/repos/calesthio/OpenMontage/git/blobs/e40452ecd81496b44225973b36c1b210dff22d00",
+    "download_url": "https://raw.githubusercontent.com/calesthio/OpenMontage/main/pipeline_defs/character-animation.yaml",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/calesthio/OpenMontage/contents/pipeline_defs/character-animation.yaml?ref=main",
+      "git": "https://api.github.com/repos/calesthio/OpenMontage/git/blobs/e40452ecd81496b44225973b36c1b210dff22d00",
+      "html": "https://github.com/calesthio/OpenMontage/blob/main/pipeline_defs/character-animation.yaml"
+    }
+  },
+  {
+    "name": "cinematic.yaml",
+    "path": "pipeline_defs/cinematic.yaml",
+    "sha": "23f442011bcccd84be113c0bd2ad27eebdf69335",
+    "size": 9170,
+    "url": "https://api.github.com/repos/calesthio/OpenMontage/contents/pipeline_defs/cinematic.yaml?ref=main",
+    "html_url": "https://github.com/calesthio/OpenMontage/blob/main/pipeline_defs/cinematic.yaml",
+    "git_url": "https://api.github.com/repos/calesthio/OpenMontage/git/blobs/23f442011bcccd84be113c0bd2ad27eebdf69335",
+    "download_url": "https://raw.githubusercontent.com/calesthio/OpenMontage/main/pipeline_defs/cinematic.yaml",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/calesthio/OpenMontage/contents/pipeline_defs/cinematic.yaml?ref=main",
+      "git": "https://api.github.com/repos/calesthio/OpenMontage/git/blobs/23f442011bcccd84be113c0bd2ad27eebdf69335",
+      "html": "https://github.com/calesthio/OpenMontage/blob/main/pipeline_defs/cinematic.yaml"
+    }
+  },
+  {
+    "name": "clip-factory.yaml",
+    "path": "pipeline_defs/clip-factory.yaml",
+    "sha": "8f4e1345b8ef35284547857e7fffd418a1248080",
+    "size": 6108,
+    "url": "https://api.github.com/repos/calesthio/OpenMontage/contents/pipeline_defs/clip-factory.yaml?ref=main",
+    "html_url": "https://github.com/calesthio/OpenMontage/blob/main/pipeline_defs/clip-factory.yaml",
+    "git_url": "https://api.github.com/repos/calesthio/OpenMontage/git/blobs/8f4e1345b8ef35284547857e7fffd418a1248080",
+    "download_url": "https://raw.githubusercontent.com/calesthio/OpenMontage/main/pipeline_defs/clip-factory.yaml",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/calesthio/OpenMontage/contents/pipeline_defs/clip-factory.yaml?ref=main",
+      "git": "https://api.github.com/repos/calesthio/OpenMontage/git/blobs/8f4e1345b8ef35284547857e7fffd418a1248080",
+      "html": "https://github.com/calesthio/OpenMontage/blob/main/pipeline_defs/clip-factory.yaml"
+    }
+  },
+  {
+    "name": "documentary-montage.yaml",
+    "path": "pipeline_defs/documentary-montage.yaml",
+    "sha": "2b7ef65c9aaf71783cd12c086da978ce29ffea03",
+    "size": 7461,
+    "url": "https://api.github.com/repos/calesthio/OpenMontage/contents/pipeline_defs/documentary-montage.yaml?ref=main",
+    "html_url": "https://github.com/calesthio/OpenMontage/blob/main/pipeline_defs/documentary-montage.yaml",
+    "git_url": "https://api.github.com/repos/calesthio/OpenMontage/git/blobs/2b7ef65c9aaf71783cd12c086da978ce29ffea03",
+    "download_url": "https://raw.githubusercontent.com/calesthio/OpenMontage/main/pipeline_defs/documentary-montage.yaml",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/calesthio/OpenMontage/contents/pipeline_defs/documentary-montage.yaml?ref=main",
+      "git": "https://api.github.com/repos/calesthio/OpenMontage/git/blobs/2b7ef65c9aaf71783cd12c086da978ce29ffea03",
+      "html": "https://github.com/calesthio/OpenMontage/blob/main/pipeline_defs/documentary-montage.yaml"
+    }
+  },
+  {
+    "name": "framework-smoke.yaml",
+    "path": "pipeline_defs/framework-smoke.yaml",
+    "sha": "380d7b3aabb82ee025347dc56cbacfbdbb7e0079",
+    "size": 675,
+    "url": "https://api.github.com/repos/calesthio/OpenMontage/contents/pipeline_defs/framework-smoke.yaml?ref=main",
+    "html_url": "https://github.com/calesthio/OpenMontage/blob/main/pipeline_defs/framework-smoke.yaml",
+    "git_url": "https://api.github.com/repos/calesthio/OpenMontage/git/blobs/380d7b3aabb82ee025347dc56cbacfbdbb7e0079",
+    "download_url": "https://raw.githubusercontent.com/calesthio/OpenMontage/main/pipeline_defs/framework-smoke.yaml",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/calesthio/OpenMontage/contents/pipeline_defs/framework-smoke.yaml?ref=main",
+      "git": "https://api.github.com/repos/calesthio/OpenMontage/git/blobs/380d7b3aabb82ee025347dc56cbacfbdbb7e0079",
+      "html": "https://github.com/calesthio/OpenMontage/blob/main/pipeline_defs/framework-smoke.yaml"
+    }
+  },
+  {
+    "name": "hybrid.yaml",
+    "path": "pipeline_defs/hybrid.yaml",
+    "sha": "b46dd642d9b31ef6ed2d41c5efbc70178963d9e1",
+    "size": 6632,
+    "url": "https://api.github.com/repos/calesthio/OpenMontage/contents/pipeline_defs/hybrid.yaml?ref=main",
+    "html_url": "https://github.com/calesthio/OpenMontage/blob/main/pipeline_defs/hybrid.yaml",
+    "git_url": "https://api.github.com/repos/calesthio/OpenMontage/git/blobs/b46dd642d9b31ef6ed2d41c5efbc70178963d9e1",
+    "download_url": "https://raw.githubusercontent.com/calesthio/OpenMontage/main/pipeline_defs/hybrid.yaml",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/calesthio/OpenMontage/contents/pipeline_defs/hybrid.yaml?ref=main",
+      "git": "https://api.github.com/repos/calesthio/OpenMontage/git/blobs/b46dd642d9b31ef6ed2d41c5efbc70178963d9e1",
+      "html": "https://github.com/calesthio/OpenMontage/blob/main/pipeline_defs/hybrid.yaml"
+    }
+  },
+  {
+    "name": "localization-dub.yaml",
+    "path": "pipeline_defs/localization-dub.yaml",
+    "sha": "f4ee1fb547c97007202f69f86f5ea91804204822",
+    "size": 6105,
+    "url": "https://api.github.com/repos/calesthio/OpenMontage/contents/pipeline_defs/localization-dub.yaml?ref=main",
+    "html_url": "https://github.com/calesthio/OpenMontage/blob/main/pipeline_defs/localization-dub.yaml",
+    "git_url": "https://api.github.com/repos/calesthio/OpenMontage/git/blobs/f4ee1fb547c97007202f69f86f5ea91804204822",
+    "download_url": "https://raw.githubusercontent.com/calesthio/OpenMontage/main/pipeline_defs/localization-dub.yaml",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/calesthio/OpenMontage/contents/pipeline_defs/localization-dub.yaml?ref=main",
+      "git": "https://api.github.com/repos/calesthio/OpenMontage/git/blobs/f4ee1fb547c97007202f69f86f5ea91804204822",
+      "html": "https://github.com/calesthio/OpenMontage/blob/main/pipeline_defs/localization-dub.yaml"
+    }
+  },
+  {
+    "name": "podcast-repurpose.yaml",
+    "path": "pipeline_defs/podcast-repurpose.yaml",
+    "sha": "ed33181aa8a78771d8762540fe81a8f44b49ec20",
+    "size": 6415,
+    "url": "https://api.github.com/repos/calesthio/OpenMontage/contents/pipeline_defs/podcast-repurpose.yaml?ref=main",
+    "html_url": "https://github.com/calesthio/OpenMontage/blob/main/pipeline_defs/podcast-repurpose.yaml",
+    "git_url": "https://api.github.com/repos/calesthio/OpenMontage/git/blobs/ed33181aa8a78771d8762540fe81a8f44b49ec20",
+    "download_url": "https://raw.githubusercontent.com/calesthio/OpenMontage/main/pipeline_defs/podcast-repurpose.yaml",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/calesthio/OpenMontage/contents/pipeline_defs/podcast-repurpose.yaml?ref=main",
+      "git": "https://api.github.com/repos/calesthio/OpenMontage/git/blobs/ed33181aa8a78771d8762540fe81a8f44b49ec20",
+      "html": "https://github.com/calesthio/OpenMontage/blob/main/pipeline_defs/podcast-repurpose.yaml"
+    }
+  },
+  {
+    "name": "screen-demo.yaml",
+    "path": "pipeline_defs/screen-demo.yaml",
+    "sha": "9b7920d704fe5877695a09b749c43c8688a32f50",
+    "size": 8127,
+    "url": "https://api.github.com/repos/calesthio/OpenMontage/contents/pipeline_defs/screen-demo.yaml?ref=main",
+    "html_url": "https://github.com/calesthio/OpenMontage/blob/main/pipeline_defs/screen-demo.yaml",
+    "git_url": "https://api.github.com/repos/calesthio/OpenMontage/git/blobs/9b7920d704fe5877695a09b749c43c8688a32f50",
+    "download_url": "https://raw.githubusercontent.com/calesthio/OpenMontage/main/pipeline_defs/screen-demo.yaml",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/calesthio/OpenMontage/contents/pipeline_defs/screen-demo.yaml?ref=main",
+      "git": "https://api.github.com/repos/calesthio/OpenMontage/git/blobs/9b7920d704fe5877695a09b749c43c8688a32f50",
+      "html": "https://github.com/calesthio/OpenMontage/blob/main/pipeline_defs/screen-demo.yaml"
+    }
+  },
+  {
+    "name": "talking-head.yaml",
+    "path": "pipeline_defs/talking-head.yaml",
+    "sha": "8bcfd35ed3a9521466d829f41f3cf07c3b7e224c",
+    "size": 6846,
+    "url": "https://api.github.com/repos/calesthio/OpenMontage/contents/pipeline_defs/talking-head.yaml?ref=main",
+    "html_url": "https://github.com/calesthio/OpenMontage/blob/main/pipeline_defs/talking-head.yaml",
+    "git_url": "https://api.github.com/repos/calesthio/OpenMontage/git/blobs/8bcfd35ed3a9521466d829f41f3cf07c3b7e224c",
+    "download_url": "https://raw.githubusercontent.com/calesthio/OpenMontage/main/pipeline_defs/talking-head.yaml",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/calesthio/OpenMontage/contents/pipeline_defs/talking-head.yaml?ref=main",
+      "git": "https://api.github.com/repos/calesthio/OpenMontage/git/blobs/8bcfd35ed3a9521466d829f41f3cf07c3b7e224c",
+      "html": "https://github.com/calesthio/OpenMontage/blob/main/pipeline_defs/talking-head.yaml"
+    }
+  }
+]
